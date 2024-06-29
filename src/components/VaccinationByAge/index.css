@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.res3-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff11;
+  border-radius: 10px;
+  margin: 30px;
+}
+.main3-con {
+  color: #cbd5e1;
+  font-size: 16px;
+  font-weight: 100;
+  font-family: cursive;
+  padding: 20px;
+  border-radius: 10px;
+}
